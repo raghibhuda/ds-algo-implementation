@@ -1,6 +1,6 @@
 # Linked List 
-A linked list is just like a treasure map of [Indiana Jones](https://en.wikipedia.org/wiki/Indiana_Jones)
-All the mysterious places have two things in common 
+A linked list is just like a treasure map of [Indiana Jones](https://en.wikipedia.org/wiki/Indiana_Jones). In the map, 
+all the mysterious places have two things in common 
 - Ancient artifacts/treasure 
 - Clue for the next place 
 
